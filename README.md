@@ -8,16 +8,17 @@ Welcome to my GitHub profile! Here you'll find a collection of projects, ideas, 
 
 ```javascript
 const Dilo = {
-  location: "Your Location Here",
-  education: "Your Education Info",
-  roles: ["Your Roles Here"],
-  currentFocus: ["Tech Interests, Frameworks or Topics You're Learning"],
+  location: "Colombo, Western Province, Sri Lanka",
+  education: "Bachelor of Science in Computer Science, University of Sri jayawardhenapura",
+  roles: ["Software Engineer", "Full-Stack Developer"],
+  currentFocus: ["Machine Learning", "Artificial Intelligence", "Web Development"],
   communities: {
-    founder: "Community You Founded (if any)",
-    member: ["Relevant Tech Communities"]
+    founder: null,
+    member: ["Sri Lanka Association for Artificial Intelligence", "Colombo Developers Meetup"]
   },
-  lifePhilosophy: "Your Motto or Life Philosophy 💭"
+  lifePhilosophy: "Strive for continuous improvement and innovation."
 };
+
 ```
 
 ---
