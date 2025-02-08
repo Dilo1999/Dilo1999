@@ -1,4 +1,4 @@
-# Hi there, I'm Dilo 👋
+# Hi there, I'm Dilshan Senanayaka 👋
 
 Welcome to my GitHub profile! Here you'll find a collection of projects, ideas, and technologies I love working on. Let's connect and create something amazing together!
 
