@@ -1,6 +1,12 @@
-# Hi there, I'm Dilshan Senanayaka 👋
+<div align="center">
 
-Welcome to my GitHub profile! Here you'll find a collection of projects, ideas, and technologies I love working on. Let's connect and create something amazing together!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=220&section=header&text=Dilshan%20Senanayaka&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" />
+
+<a href="https://github.com/Dilo1999">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there%2C+I'm+Dilo+%F0%9F%91%8B;Software+Engineer+%7C+Full-Stack+Developer;Machine+Learning+%26+AI+Enthusiast;Let's+build+something+amazing!&font=Fira%20Code&center=true&width=600&height=50&color=22D3EE&vCenter=true&size=24" />
+</a>
+
+</div>
 
 ---
 
@@ -9,7 +15,7 @@ Welcome to my GitHub profile! Here you'll find a collection of projects, ideas, 
 ```javascript
 const Dilo = {
   location: "Colombo, Western Province, Sri Lanka",
-  education: "Bachelor of Science in Computer Science, University of Sri jayawardhenapura",
+  education: "Bachelor of Science in Computer Science, University of Sri Jayewardenepura",
   roles: ["Software Engineer", "Full-Stack Developer"],
   currentFocus: ["Machine Learning", "Artificial Intelligence", "Web Development"],
   communities: {
@@ -18,53 +24,65 @@ const Dilo = {
   },
   lifePhilosophy: "Strive for continuous improvement and innovation."
 };
-
 ```
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="contribution snake animation" />
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Core Technologies
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java,kotlin,dart" />
+</p>
 
 ### Mobile Technologies
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,react,expo" />
+</p>
 
 ### Web Technologies
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,nodejs,fastapi,laravel,php,react" />
+</p>
 
 ### Databases
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,mysql,mongodb" />
+</p>
+
 ---
 
 ## 📈 GitHub Stats
-![Dilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dilo1999&show_icons=true&theme=radical)
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Dilo1999&show_icons=true&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dilo1999&theme=radical&hide_border=true" width="48%" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilo1999&layout=compact&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dilo1999&theme=react-dark&hide_border=true" width="48%" />
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Dilo1999&theme=radical&no-frame=true&margin-w=10&row=1" />
+</div>
 
 ---
 
 ## 🔗 Let's Connect
-- 🌐 [Portfolio](https://your-website-link.com)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 💼 [LinkedIn](https://linkedin.com/in/yourhandle)
-- 📺 [YouTube](https://youtube.com/yourchannel)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Dilo1999&color=brightgreen)
+<p align="center">
+<a href="https://your-website-link.com"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://youtube.com/yourchannel"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Dilo1999&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=120&section=footer" />
